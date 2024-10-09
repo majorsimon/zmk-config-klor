@@ -157,14 +157,5 @@ label= "ADJUST"                                                ;
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
                 };
 
-                extra_layer_1 {
-                  status = "reserved";
-                };
-                extra_layer_2 {
-                  status = "reserved";
-                };
-                extra_layer_3 {
-                  status = "reserved";
-                };
         };
 };
